@@ -1,0 +1,2 @@
+# pic
+for storing pics
